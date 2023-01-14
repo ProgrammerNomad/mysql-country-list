@@ -3,7 +3,7 @@
  
 ### Types of Lists
 
-1. Detailed country info in MySQl
+1. Detailed country info in MySQL
 3. Detailed country info in JSON
 
 
